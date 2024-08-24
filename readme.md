@@ -45,11 +45,11 @@ The container also uses the custom [Oh My ZSH](https://ohmyz.sh/) theme, [Flower
 
    2.1. Click the remote icon icon (Two Arrows at the bottom-left corner);
 
-   2.2. Select `Attach to Running container...` > `<your-folder-name>-dev-env-1`
+   2.2. Select `Attach to Running container...` > `<your-folder-name>-dev-env-1`;
 
-   2.3. Open /home/<your-username>/app/
+   2.3. Open /home/`<your-username>`/app/.
 
-3. Install npm packages
+3. Install npm packages.
 
 ````bash
 npm i```
