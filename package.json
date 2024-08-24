@@ -1,6 +1,6 @@
 {
   "name": "spring-vue-monorepo-pipeline-poc",
-  "version": "4.0.0",
+  "version": "0.0.0",
   "workspaces": [
     "backend",
     "frontend"
