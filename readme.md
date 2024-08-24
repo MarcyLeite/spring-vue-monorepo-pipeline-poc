@@ -57,7 +57,7 @@ npm i```
 
 ### Tasks
 
-From there, you have some tasks predifend that will make you development exprience easier.
+From there, you have some tasks predefined with `npm run <command>`, that will make you development exprience easier.
 
 | Command     | Description                                                                                                                           |
 | ----------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -67,5 +67,5 @@ From there, you have some tasks predifend that will make you development exprien
 | build:back  | Creates a build folder with a .jar from Spring Boot Web server in `./backend/target`                                                  |
 | build:front | Creates a Vue3 wepage in /frontend/dist                                                                                               |
 | build       | Build the frontend pages, copy's it to backend as a Spring Boot Static and then builds backend                                        |
-| bump        | Increses project version as a Major (Read More) in files `package.json` and `backend/pom.xml`                                         |
+| bump        | Increses project version as a Major ([Read More](https://semver.org/)) in files `package.json` and `backend/pom.xml`                                         |
 | publish     | Bumps project, build it, commit's version changes, creates tags and publishes changes and tag to remote `origin main` (In that order) |
