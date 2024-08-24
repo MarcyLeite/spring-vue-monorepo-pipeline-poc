@@ -51,9 +51,9 @@ The container also uses the custom [Oh My ZSH](https://ohmyz.sh/) theme, [Flower
 
 3. Install npm packages.
 
-````bash
-npm i```
-````
+```bash
+npm i
+```
 
 ### Tasks
 
